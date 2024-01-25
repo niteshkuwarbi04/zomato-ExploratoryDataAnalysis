@@ -11,7 +11,7 @@ The dataset is being retrieved from kaggle (https://www.kaggle.com/datasets/shru
 ## Data Storage:
 The collected data has been stored in the Comma Separated Value file Zomato.csv. Each restaurant in the dataset is uniquely identified by its Restaurant Id. Every Restaurant contains the following variables:
 
-• Restaurant Id: Unique id of every restaurant across various cities of the world
+• Restaurant Id: Unique id of every restaurant across various cities of the world.
 • Restaurant Name: Name of the restaurant
 • Country Code: Country in which restaurant is located
 • City: City in which restaurant is located
